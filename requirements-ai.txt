@@ -1,0 +1,6 @@
+# Optional: Hugging Face highlight scoring (--scorer ai / --mode best)
+-r requirements.txt
+transformers>=4.44
+torch>=2.3
+sentencepiece
+protobuf
